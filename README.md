@@ -1,9 +1,10 @@
-##   Hello everyone! 😄
-My name is Andre Butler and I'm currently focused on developing web-based software. 
+##   Hi, i'm Andre everyone! 😄 👋 💻
 
-Please visit my [portfolio](https://www.andrebutler.me) and connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/).
+<img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
-## 🔧 Technologies & Tools
+My name is Andre Butler and I'm currently focused on developing web-based software. I am also Developer who is passionate about creating technology to elevate people, building community, and inspire civic engagment. 
+
+## 🔧 💻 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
@@ -16,17 +17,13 @@ Please visit my [portfolio](https://www.andrebutler.me) and connect with me on [
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abutler6588&hide=stars,contribs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Andre's GitHub Stats" />
 </a>
 
+## Find me around the web 🌎: 
+
+- Please visit my [portfolio](https://www.andrebutler.me) 📹 ✍🏾 💻
+- Follow my progress on <a href="https://twitter.com/OK20171">Twitter</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/">LinkedIn</a> 💼
+
+ and connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/).
+
 <!--
 **abutler6588/abutler6588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... an app that will predict the probability that you will exprience specific law enforcement complications more frequenlty based upon your race and zip code. 
-- 🌱 I’m currently learning ... Python and React
-- 👯 I’m looking to collaborate on ... a chatbot using a new AI technology named 'Rasa,' which allows users to search for cusine by thier location through the use of a Bing maps API. 
-- 🤔 I’m looking for help with ... more coding projects and networking! 
-- 💬 Ask me about ... the places i've traveled!
-- 📫 How to reach me: ... abutler6588@gmail.com
-- 😄 Pronouns: ... he/him
- 
--->
