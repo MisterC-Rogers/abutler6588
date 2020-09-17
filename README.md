@@ -8,6 +8,7 @@ I am also Developer who is passionate about creating technology to elevate peopl
 
 ## 🔧 💻 Technologies & Tools
 <hr> 
+
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffbf4b)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffbf4b)
@@ -22,10 +23,12 @@ I am also Developer who is passionate about creating technology to elevate peopl
 
 ## Find me around the web 🌎: 
 <hr> 
+
 - Please visit my [portfolio](https://www.andrebutler.me) 📹 ✍🏾 💻
 - Follow my progress on <a href="https://twitter.com/OK20171">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/">LinkedIn</a> 💼
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/).
+
 <hr> 
 <!--
 **abutler6588/abutler6588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
