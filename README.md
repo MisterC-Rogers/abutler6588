@@ -1,4 +1,4 @@
-## 😄 Hello everyone! 
+##   Hello everyone! 😄
 My name is Andre Butler and I'm currently focused on developing web-based software. 
 
 Please visit my [portfolio](https://www.andrebutler.me) and connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/).
