@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
-My name is Andre Butler and I'm currently focused on developing web-based software. I am also Developer who is passionate about creating technology to elevate people, building community, and inspire civic engagment. 
+My name is Andre Butler and I'm currently focused on developing web-based software. I was born and raised in Wichita, KS! After graduating college at Fort Hays State University, I spent several years traveling the United States as a Hospitaity Sales Professional for a hotel start-up based in my hometown, Wichita. Throughout my travels across the country, I was fortunte to improve my interpsonal skills, and ultimately gain exposure to coding in the travel industry. I absolutley loved how coding was able to automate my sales processes which inspired to complete my frist Web Developer Bootcamp and look deeper into the work I do professionaly and inspired me to be purpose driven in my next career. 
+
+I am also Developer who is passionate about creating technology to elevate people, build community, and inspire more civic engagment! My recent projects inlcude Chatbot using an API to locate cusine by a users locaiton and a site that displays interesctions in Oklahoma City, proper that are the most accident prone. 
 
 ## 🔧 💻 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=1486bd)
