@@ -1,4 +1,4 @@
-##   Hi, i'm Andre everyone! 😄 👋 💻
+##   Hi, i'm Andre everyone! 😄 ✊🏿 💻
 
 <img src="https://raw.githubusercontent.com/abutler6588/abutler6588/master/dino.gif" alt="dino image gif that is animated">
 
