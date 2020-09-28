@@ -26,8 +26,8 @@ I am also Developer who is passionate about creating technology to elevate peopl
 
 - Please visit my [portfolio](https://www.andrebutler.me) 📹 ✍🏾 💻
 - Follow my progress on <a href="https://twitter.com/OK20171">Twitter</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/">LinkedIn</a> 💼
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%AA%94-andre-butler-62aa387b/).
+- Sharing updates on <a href="https://www.linkedin.com/in/andre-butler-62aa387b/">LinkedIn</a> 💼
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/andre-butler-62aa387b/).
 
 <hr> 
 <!--
